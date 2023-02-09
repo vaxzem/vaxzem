@@ -1,3 +1,7 @@
+<a href="https://github.com/vaxzem">
+    <img src="https://komarev.com/ghpvc/?username=vaxzem&label=Visitors&color=0e75b6&style=plastic">
+</a>
+
 <p align="center">
   <a href="https://github.com/vaxzem">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=2000&pause=100&center=true&multiline=true&width=500&height=80&lines=vaxzem;Irregular+%7C+Autodidact+%7C+Researcher" alt="Typing SVG"/></a>
